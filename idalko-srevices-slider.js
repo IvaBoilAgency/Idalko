@@ -1,7 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-
-  jQuery('.services-slider').owlCarousel({
+ jQuery('.services-slider').owlCarousel({
         loop: true,
         autoplay: false,
         nav: true,
